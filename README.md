@@ -1,1 +1,1 @@
-# Student-DataBase-Management-System
+# StudentActivity-DataBase-Management-System
